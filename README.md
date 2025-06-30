@@ -36,3 +36,7 @@ Problem	Predict and prevent air pollution spikes
 ML Approach	Supervised Regression using Random Forest
 Results	MAE = XX, R² = YY (insert your model’s real results)
 Ethical Reflection	Addresses environmental justice, fairness in data, and policy empowerment
+
+
+PRESENTATION
+https://www.loom.com/share/00eb8aea455149af818895232bd93ea9?sid=50f123e1-81a7-4fef-ab56-ef86ce24fc9f
